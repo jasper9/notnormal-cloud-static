@@ -1,4 +1,4 @@
-name: Upload Website Files
+name: Upload Website File
 
 on:
   push:
